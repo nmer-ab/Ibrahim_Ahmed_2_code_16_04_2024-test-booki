@@ -20,6 +20,7 @@ html {
 }
 
 body {
+  background-color: blue;
   font-size: 16px;
   max-width: 1440px; /*it doesn't work well with main-container */
   min-width: 320px;
